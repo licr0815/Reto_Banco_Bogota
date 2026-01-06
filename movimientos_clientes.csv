@@ -1,0 +1,3 @@
+Id_transaccion;Cliente_id;Nombre;Ciudad;Fecha_registro;Monto;Fecha
+1001;1;Ana Torres                                                                                          ;Bogotá                                            ;2024-03-01;50000;2024-03-02
+1002;2;Juan Pérez                                                                                          ;Medellín                                          ;2023-12-15;30000;2024-03-03
